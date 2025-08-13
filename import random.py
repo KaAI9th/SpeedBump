@@ -1,7 +1,7 @@
 import random
 import os
 import sys
-
+import turtle
 # --- ▼ [신규] 도로 설계 파라미터 정의 ---
 # 이 값들은 사용자의 .vroad 파일 구조를 기반으로 합니다.
 # 종단곡선의 전체 길이 (BVC to EVC)
